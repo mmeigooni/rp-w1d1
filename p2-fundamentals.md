@@ -4,7 +4,7 @@
 
 ## Lesson
 
-[GitHub Pages](https://docs.google.com/presentation/d/1dIf2rPBNEp6MUqTNvPfpgNy3lf2VRjg_n297cGU5re4/embed?start=false&loop=false&delayms=3000)
+[Slides](https://docs.google.com/presentation/d/1dIf2rPBNEp6MUqTNvPfpgNy3lf2VRjg_n297cGU5re4/embed?start=false&loop=false&delayms=3000)
 
 ## Exercises
 
