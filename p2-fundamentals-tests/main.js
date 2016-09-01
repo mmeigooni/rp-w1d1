@@ -1,6 +1,6 @@
 function howOld(dob){
   /*
-    HINT
+    
     How do you find your age in JavaScript?
     lets take a look at the Date object 
     https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date
