@@ -128,7 +128,6 @@ describe('Fundamentals of Programming', function(){
   
   describe('letsConcat', function(){
     var fullOne = letsConcat("Harry", "Potter");
-    var notFullTwo = letsConcat("Harry");
     
     it('should be a function', function(){
       expect(letsConcat).to.be.an.instanceOf(Function);
