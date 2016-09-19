@@ -6,7 +6,7 @@ lesson (explained in the previous link).**
 
 ## Lesson
 
-[GitHub Pages](https://docs.google.com/presentation/d/1u0T12ffroqJJ58ELC4pzUdd0Nf4ulq9_3fxsCiqw8bg/embed?start=false&loop=false&delayms=3000)
+[Slides](https://docs.google.com/presentation/d/1u0T12ffroqJJ58ELC4pzUdd0Nf4ulq9_3fxsCiqw8bg/embed?start=false&loop=false&delayms=3000)
 
 ## Exercises
 
