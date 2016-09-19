@@ -1,6 +1,6 @@
 # Fundamentals of Programming
 
-**Before getting started, make sure that you're familiar with the [Chrome Console](/console).**
+**Before getting started, make sure that you're familiar with the Chrome console.**
 
 ## Lesson
 
