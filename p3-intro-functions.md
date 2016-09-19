@@ -1,7 +1,7 @@
 # Introduction to Functions
 
 **Before getting started, make sure that you're familiar with
-[Sublime Text](/editor). Make sure you download a new project for today's
+[Sublime Text](https://www.sublimetext.com/). Make sure you download a new project for today's
 lesson (explained in the previous link).**
 
 ## Lesson
